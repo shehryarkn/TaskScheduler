@@ -1,0 +1,11 @@
+/Users/shehryarkhan/Projects/TaskScheduler/bin/Debug/netcoreapp2.1/TaskScheduler.deps.json
+/Users/shehryarkhan/Projects/TaskScheduler/bin/Debug/netcoreapp2.1/TaskScheduler.runtimeconfig.json
+/Users/shehryarkhan/Projects/TaskScheduler/bin/Debug/netcoreapp2.1/TaskScheduler.runtimeconfig.dev.json
+/Users/shehryarkhan/Projects/TaskScheduler/bin/Debug/netcoreapp2.1/TaskScheduler.dll
+/Users/shehryarkhan/Projects/TaskScheduler/bin/Debug/netcoreapp2.1/TaskScheduler.pdb
+/Users/shehryarkhan/Projects/TaskScheduler/obj/Debug/netcoreapp2.1/TaskScheduler.csprojAssemblyReference.cache
+/Users/shehryarkhan/Projects/TaskScheduler/obj/Debug/netcoreapp2.1/TaskScheduler.csproj.CoreCompileInputs.cache
+/Users/shehryarkhan/Projects/TaskScheduler/obj/Debug/netcoreapp2.1/TaskScheduler.AssemblyInfoInputs.cache
+/Users/shehryarkhan/Projects/TaskScheduler/obj/Debug/netcoreapp2.1/TaskScheduler.AssemblyInfo.cs
+/Users/shehryarkhan/Projects/TaskScheduler/obj/Debug/netcoreapp2.1/TaskScheduler.dll
+/Users/shehryarkhan/Projects/TaskScheduler/obj/Debug/netcoreapp2.1/TaskScheduler.pdb
