@@ -33,7 +33,7 @@ namespace TaskScheduler
                 Console.WriteLine("//here write the code that you want to schedule");
             });
 
-            // For Interval in Seconds 
+            // For Interval in Days 
             // This Scheduler will start at 17:22 and call after every 3 Days
             // IntervalInSeconds(start_hour, start_minute, days)
             MyScheduler.IntervalInDays(17, 22, 3,
